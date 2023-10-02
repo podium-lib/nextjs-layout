@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@podium/layout": "5.0.0-next.9",
+    "@podium/nextjs-layout-client": "0.0.1",
+    "@podium/nextjs-layout-server": "0.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

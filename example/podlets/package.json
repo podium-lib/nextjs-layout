@@ -1,0 +1,15 @@
+{
+  "name": "podlets",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.4.0",
+    "@fastify/static": "^6.11.2",
+    "@podium/fastify-podlet": "^2.2.44",
+    "@podium/podlet": "5.0.0-next.6",
+    "fastify": "^4.23.2"
+  }
+}

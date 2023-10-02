@@ -1,0 +1,23 @@
+{
+  "name": "@podium/nextjs-layout-client",
+  "version": "0.0.1",
+  "description": "NextJS plugin for Podium Layout for client side rendering",
+  "main": "./build/podlet.js",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trygve Lie",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "0.19.4",
+    "next": "13.5.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "peerDependencies": {
+    "next": ">=13",
+    "react": ">=17",
+    "react-dom": ">=17"
+  }
+}
