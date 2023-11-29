@@ -9,7 +9,7 @@
   "author": "Trygve Lie",
   "license": "MIT",
   "dependencies": {
-    "@podium/layout": "5.0.0-next.9"
+    "@podium/layout": "5.0.0"
   },
   "devDependencies": {
     "next": "13.5.3",
